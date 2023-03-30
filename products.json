@@ -1,0 +1,14 @@
+[
+    {
+        "name":"t-shirt",
+        "price":"500",
+        "qty":"30"
+       
+    },
+    {
+        "name":"t-shirt2",
+        "price":"70",
+        "qty":"10"
+       
+    }
+]
